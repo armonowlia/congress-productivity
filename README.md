@@ -12,7 +12,7 @@ Indeed, political parties are running many campaigns on a broader level. Instead
 
 "People's feelings have been, gotten much more negative over time. Again, people are much more likely to think in consistently ideological terms," said Todd Washburn, a professor at the Harvard Extension School.
 
-[![Historic Congressional productivity since 1951](https://user-images.githubusercontent.com/103232840/235519242-e49a5cfa-c23b-4545-bd6c-acd60d9a1baf.png)](https://datawrapper.dwcdn.net/UV0Bv/3/)
+[![Historic Congressional productivity since 1951](https://user-images.githubusercontent.com/103232840/235519242-e49a5cfa-c23b-4545-bd6c-acd60d9a1baf.png)](https://datawrapper.dwcdn.net/UV0Bv/4/)
 
 Historical Congressional data, as far back as 1951, paints a stark picture running parallel to history as to how unproductive Congress has become. Congress has experienced a severe drop in productivity, as it spends more time in session while passing minimal bills into law. 
 
