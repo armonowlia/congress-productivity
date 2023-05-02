@@ -79,3 +79,7 @@ The main goal in creating this piece was being able to find a way to fact-check 
  * Control of Congress and White House is often cited as being highly important to not only push agendas, but get more legislation passed, because the votes play into the hand of the party. With the data collected as to Presidency, House, and Senate control, I created the following formula to help determine who had the control or if it was, overall, split control.
 
 > =IF(AND(I2="Democrat",J2="Democrat"),"Democrat", IF(AND(I2="Republican",J2="Republican"),"Republican", "Split")
+
+This resulted in the following set, which provided some level of insight, but, in the grand scheme of things, not much.
+
+<img width="500" alt="Screenshot 2023-05-02 at 2 55 58 PM" src="https://user-images.githubusercontent.com/103232840/235794663-cd5e0bac-97e7-4562-a0b1-764fd25c4cd8.png">
