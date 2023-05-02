@@ -93,6 +93,10 @@ This resulted in the following set of data:
 
 <img width="500" alt="Screenshot 2023-05-02 at 3 01 07 PM" src="https://user-images.githubusercontent.com/103232840/235795378-bc6e9205-45de-4f02-8bfb-105d62a46c13.png">
 
-### Final Data Diary
+4. What was the methodology over the first three months of Congress?
+
+ * Using the original data the diary as a guide, I was able to isolate specific Congresses, notably from then-first time Speakers, specficially 82 (Sam Rayburn), 83 (Joseph W. Martin Jr.), 88 (John W. McCormack), 92 (Carl Albert), 95 (Tip O'Neill), 100 (Jim Wright), 101 (Tom Foley), 104 (Newt Gingrich), 106 (Dennis Hastert), 110 (Nancy Pelosi), 112 (John Boehner), 114 (Paul Ryan), and 118 (Kevin McCarthy). I then was able to calcuate three months ahead, then used the same DAY calculation using the Senate.gov session to determine which days they were in session during that time period. I then used the method described in Number 2 to determine the number of days, then Number 3's methodology to determine the bill passage rate.
+
+## Final Data Diary
 
 [![Final Data Diary](https://user-images.githubusercontent.com/103232840/235796153-b2ae39f6-906c-429f-be12-04f6685b3633.png)](["https://docs.google.com/spreadsheets/d/19lVngTYpXlQhd9EZolF9qaLuPrUj08BQqiDupbTNx4w/edit?usp=sharing"])
