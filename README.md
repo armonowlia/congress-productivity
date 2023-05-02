@@ -74,6 +74,7 @@ The main goal in creating this piece was being able to find a way to fact-check 
 <img width="1000" alt="Screenshot 2023-05-02 at 2 41 23 PM" src="https://user-images.githubusercontent.com/103232840/235792351-0349ca05-8bbf-46d6-b555-d6b68e850b1a.png">
 
  * It's important to note that certain Congressional numbers are repeated and separated, notably the 88th Congress, 93rd, 101st, and 114th. This is due to changes in President or Speaker during that period. 88th (assassination of Kennedy), 93rd (resignation of Nixon), 101st (resignation of Speaker Tip O'Neill), 114th (resignation of Speaker John Boehner). However, the same process of cross-checking was used to ensure Congress was in session during that period.
+
 2. Who had overall control of Congress and the White House?
 
  * Control of Congress and White House is often cited as being highly important to not only push agendas, but get more legislation passed, because the votes play into the hand of the party. With the data collected as to Presidency, House, and Senate control, I created the following formula to help determine who had the control or if it was, overall, split control.
@@ -83,3 +84,11 @@ The main goal in creating this piece was being able to find a way to fact-check 
 This resulted in the following set, which provided some level of insight, but, in the grand scheme of things, not much.
 
 <img width="500" alt="Screenshot 2023-05-02 at 2 55 58 PM" src="https://user-images.githubusercontent.com/103232840/235794663-cd5e0bac-97e7-4562-a0b1-764fd25c4cd8.png">
+
+3. What was the bill passage percentage rate?
+
+ * An important factor, however, came down to the bill passage percentage rate, calculated as the quotient of the bills introduced from bills passed into laws, then converted into a percentage. As for how it was determined for the 88th Congress, 93rd, 101st, and 114th, this was done by clicking through each bill and determining the last bills passed by each, then using the corresponding number next to the bill to get the exact number introduced/passed, double checking for a compelte record by adding the numbers together and cross-referencing with the Library of Congress.
+
+This resulted in the following set of data:
+
+<img width="500" alt="Screenshot 2023-05-02 at 3 01 07 PM" src="https://user-images.githubusercontent.com/103232840/235795378-bc6e9205-45de-4f02-8bfb-105d62a46c13.png">
