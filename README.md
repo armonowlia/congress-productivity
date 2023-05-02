@@ -54,3 +54,6 @@ Congressional productivity would continue to decline, ebbing and flowing but nev
 * Maintains records on all bills introduced and their statuses, with consistent records going as far back as 1951 (https://www.congress.gov/search?pageSort=dateOfIntroduction%3Aasc&pageSize=250&q=%7B%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%2C%22bill-status%22%3A%22introduced%22%7D)
 ### Senate.gov
 * Shows the exact days during which Congress (both House and Senate) were in session, which helps in determining the level of productivity Congress has in passing laws (https://www.senate.gov/legislative/DatesofSessionsofCongress.htm#2021)
+
+## Methodology
+
