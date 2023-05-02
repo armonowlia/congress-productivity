@@ -41,7 +41,7 @@ Congressional productivity would continue to decline, ebbing and flowing but nev
 "Most of them, especially at the congressional level, use it to create viral burns," said McMahon, "You know, sort of like, 'I'm going to, I'm going to say something that is really controversial. It's going to get a ton of eyeballs on it because that moment is going to go viral. And I am then, as a result, going to fill my coffers with donations from people who like what I have to say.' So, they are very disincentivized from crossing that political divide and entirely incentivized to stay on their own side, and, in fact, to create those viral moments that they know will help them raise money."
 
 # Making Of The Piece
-## Sourcing for future reporting
+## Sourcing for future reporting (Primary Sources)
 ### Sharon McMahon
 * Contact information: info@sharonmcmahon.com
 * Importance: McMahon, a civilian winner of the coveted Jefferson Award, is a former high school government teacher based in Minnesota. Her speciality is not only tackling misinforation through her podcast, "Sharon Says So," she has a deep understanding as to how Congress works and how America became as divided as it is.
@@ -49,3 +49,8 @@ Congressional productivity would continue to decline, ebbing and flowing but nev
 * Contact information: pierson@berkeley.edu
 * Importance: Pierson is a renowned political historian based at UC Berkeley, with speciality in American political history and context, which is important to understand not only in polarization, but the non-productivenss of Congress.
 
+## Sourcing for future reporting (Secondary Sources)
+### Library of Congress
+* Maintains records on all bills introduced and their statuses, with consistent records going as far back as 1951 (https://www.congress.gov/search?pageSort=dateOfIntroduction%3Aasc&pageSize=250&q=%7B%22source%22%3A%22legislation%22%2C%22type%22%3A%22bills%22%2C%22bill-status%22%3A%22introduced%22%7D)
+### Senate.gov
+* Shows the exact days during which Congress (both House and Senate) were in session, which helps in determining the level of productivity Congress has in passing laws (https://www.senate.gov/legislative/DatesofSessionsofCongress.htm#2021)
