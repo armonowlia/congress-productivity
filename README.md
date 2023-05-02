@@ -56,4 +56,10 @@ Congressional productivity would continue to decline, ebbing and flowing but nev
 * Shows the exact days during which Congress (both House and Senate) were in session, which helps in determining the level of productivity Congress has in passing laws (https://www.senate.gov/legislative/DatesofSessionsofCongress.htm#2021)
 
 ## Methodology
-
+The main goal in creating this piece was being able to find a way to fact-check Ocasio-Cortez's statement regarding the 118th Congress being the least productive first three months under a new Speaker in modern political history. However, there is no available metric as to Congressional productivity, therefore, one had to be devised. To find data, however, a few key factors needed to be established.
+1. Range of Time To Evaluate
+  * Ocasio-Cortez, in her statement, discussed modern Congress as well as Congress overall. There have been 118 Congresses in total, however, the Library of Congress, officially, only has data from the 82nd Congress (1951) to the present day. Ideally, I would have liked to evaluate data from all 118 Congresses, including from the 80th Congress, known historically as the "Do-Nothing" Congress due to their inability to pass legislation.
+2. Dates In Session versus Calendar Dates
+  * Congress does not meet every day in a calendar year, at least, not traditionally. There are breaks and, traditionally, the actual numbers of days in session is divided into two, meaning Congress, officially, has two sessions. Establishing the time frames and the percentage of the time they are in session helps establish the amount of time they use.
+3. How Many Bills Introduced versus How Many Bills Passed
+  * It can be argued that the main goal of Congress is to not only represent the people, but help introduce legislation to be passed into laws proposed by their constituents. Therefore, establishing a clear percentage of the bills introduced versus the bills passed into law by the President, helps in determining how much gets done.
