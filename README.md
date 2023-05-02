@@ -95,4 +95,4 @@ This resulted in the following set of data:
 
 ### Final Data Diary
 
-[![Final Data Diary](https://user-images.githubusercontent.com/103232840/235796153-b2ae39f6-906c-429f-be12-04f6685b3633.png)]([https://datawrapper.dwcdn.net/QL1Ik/2/](https://docs.google.com/spreadsheets/d/19lVngTYpXlQhd9EZolF9qaLuPrUj08BQqiDupbTNx4w/edit?usp=sharing))
+[![Final Data Diary](https://user-images.githubusercontent.com/103232840/235796153-b2ae39f6-906c-429f-be12-04f6685b3633.png)]([https://docs.google.com/spreadsheets/d/19lVngTYpXlQhd9EZolF9qaLuPrUj08BQqiDupbTNx4w/edit?usp=sharing])
