@@ -63,3 +63,10 @@ The main goal in creating this piece was being able to find a way to fact-check 
   * Congress does not meet every day in a calendar year, at least, not traditionally. There are breaks and, traditionally, the actual numbers of days in session is divided into two, meaning Congress, officially, has two sessions. Establishing the time frames and the percentage of the time they are in session helps establish the amount of time they use.
 3. How Many Bills Introduced versus How Many Bills Passed
   * It can be argued that the main goal of Congress is to not only represent the people, but help introduce legislation to be passed into laws proposed by their constituents. Therefore, establishing a clear percentage of the bills introduced versus the bills passed into law by the President, helps in determining how much gets done.
+4. Who Had Control of Two Branches of Government (Legislative and Executive)
+  * Because the makeup of Congress versus The White House has impacted productivity in past, not only is it important to establish who had control, but, in this case, learn who the Speaker of the House was during each session, on top of the President, and spliting it when necessary to evaluate the productivity and effectiveness as fairly as possible. This can be found quite easily through historical records.
+
+### Calculating From The Raw Data
+1. How many days was Congress in session and what percentage of time in session did they have, in comparison to start to end dates?
+ * Using the Senate.gov data, I was able to find, first, the exact dates during which Congress was officially in session, then used a formula in Google Sheets to calculate exactly how many days they were in session. For example, the 82nd Congress convened its first session on January 3, 1951, ending it on October 20, 1951. The second session convened on January 8, 1952 and ended on July 7, 1952. Knowing that, I inserted the following formula:
+> =DAYS("10/20/1951","1/3/1951") + DAYS("7/7/1952", "1/8/1952") 
