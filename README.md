@@ -92,3 +92,7 @@ This resulted in the following set, which provided some level of insight, but, i
 This resulted in the following set of data:
 
 <img width="500" alt="Screenshot 2023-05-02 at 3 01 07 PM" src="https://user-images.githubusercontent.com/103232840/235795378-bc6e9205-45de-4f02-8bfb-105d62a46c13.png">
+
+### Final Data Diary
+
+[![Final Data Diary](https://user-images.githubusercontent.com/103232840/235796153-b2ae39f6-906c-429f-be12-04f6685b3633.png)]([https://datawrapper.dwcdn.net/QL1Ik/2/](https://docs.google.com/spreadsheets/d/19lVngTYpXlQhd9EZolF9qaLuPrUj08BQqiDupbTNx4w/edit?usp=sharing))
