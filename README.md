@@ -12,11 +12,11 @@ Indeed, political parties are running many campaigns on a broader level. Instead
 
 "People's feelings have been, gotten much more negative over time. Again, people are much more likely to think in consistently ideological terms," said Todd Washburn, a professor at the Harvard Extension School.
 
-[![Historic Congressional productivity since 1951](https://user-images.githubusercontent.com/103232840/235519242-e49a5cfa-c23b-4545-bd6c-acd60d9a1baf.png)](https://datawrapper.dwcdn.net/UV0Bv/4/)
+[![Historic Congressional productivity since 1951](https://github.com/armonowlia/congress-productivity/blob/main/Screenshot%202023-05-03%20at%2011.16.58%20AM.png)](https://datawrapper.dwcdn.net/UV0Bv/5/)
 
 Historical Congressional data, as far back as 1951, paints a stark picture running parallel to history as to how unproductive Congress has become. Congress has experienced a severe drop in productivity, as it spends more time in session while passing minimal bills into law. 
 
-[![Historic Congressional productivity over the first three months of a first-time Speaker's term since 1951](https://user-images.githubusercontent.com/103232840/235519446-db31e5b9-22d1-4250-a497-c60109f205ec.png)](https://datawrapper.dwcdn.net/QL1Ik/2/)
+[![Historic Congressional productivity over the first three months of a first-time Speaker's term since 1951](https://github.com/armonowlia/congress-productivity/blob/main/Screenshot%202023-05-03%20at%2011.17.13%20AM.png)](https://datawrapper.dwcdn.net/QL1Ik/3/)
 
 In particular, when evaluating the productivity of Congress under the first three months of new Speakers since 1951, House Speaker Kevin McCarthy has, statistically, scored the lowest of any new Speaker, with only 0.03% of bills passed into law while Congress has spent every calendar day in session. 
 
